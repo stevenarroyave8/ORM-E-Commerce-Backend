@@ -1,6 +1,6 @@
 # ORM-E-Commerce-Backend
 ## About 
-The Purpose of this challenge is to build the back end for an e-commerce site. By using a working Express.js API and configure it to use Sequelize to interact with a MySQL database.
+The purpose of this challenge was to build the back end for an e-commerce site. By using a working Express.js API and configure it to use Sequelize to interact with a MySQL database.
 ### Installations 
 Download or clone the repo.
 
